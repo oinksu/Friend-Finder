@@ -19,6 +19,7 @@
   "homepage": "https://github.com/oinksu/Friend-Finder#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "node": "^12.7.0",
     "path": "^0.12.7"
   }
 }
