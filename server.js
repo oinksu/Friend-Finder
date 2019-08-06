@@ -26,7 +26,7 @@ app.use(bodyParser.json({ type: 'application/vnd.api+json' }))
 
 
 // Server Routing Map 
-apiRoutes(app) // API route - Must be listed first due to the HTML default catch all "use" route
+apiRoutes(app) 
 htmlRoutes(app) // HTML route 
 
 
